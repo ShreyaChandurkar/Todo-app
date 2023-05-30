@@ -1,0 +1,59 @@
+
+/* Login form container */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+.login_continer {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(https://lenstax.com/auth/app-assets/images/pages/faq.jpg);
+    background-size: cover;
+    background-position: center;
+  }
+  
+  /* Form container */
+  .form_container {
+    
+    width: 50%;
+    max-width: 500px;
+    height: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    background-color: #fff;
+  }
+  
+  /* Form input fields */
+  .form_container input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+    font-size: 1rem;
+  }
+  
+  /* Submit button */
+  .submit_btn {
+    background-color: #4caf50;
+    color: white;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px 0;
+    font-size: 1rem;
+    transition: background-color 0.2s ease-in-out;
+  }
+  
+  .submit_btn:hover {
+    background-color: #388e3c;
+  }
+  
