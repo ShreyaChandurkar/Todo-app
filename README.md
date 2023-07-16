@@ -1,7 +1,5 @@
 # Todo-app
 
-Hello, my name is Shreya Chandurkar. I am currently pursuing my master's degree in Master of Computer Application. As part of my coursework, I have developed an assignment that includes several features.
-
 Firstly, I have created a registration form with validation and error pop-ups. The registration form ensures that the entered information meets the required criteria.
 
 Secondly, I have developed a login form with validation and error pop-ups as well. This form ensures that only authorized users can access the system.
